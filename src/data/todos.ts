@@ -1,6 +1,6 @@
-import { TodoProps } from "../types/todo";
+import { Todo } from "../types/todo";
 
-export const dummyData: TodoProps[] = [
+export const dummyData: Todo[] = [
   {
     id: 1,
     title: "Like this video 👍🏻",
